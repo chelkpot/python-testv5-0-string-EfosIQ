@@ -2,12 +2,10 @@
 
 def solve():
 # Ниже пишите решение задачи
-    Z = input()
-    A = input()
-    rezultat = A + Z
-    print(rezultat)
      
-
+    a=input()
+    b=input()
+    print(b+a)
 
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":
