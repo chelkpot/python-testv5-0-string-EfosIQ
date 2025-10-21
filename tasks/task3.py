@@ -2,6 +2,10 @@
 
 def solve():
 # Ниже пишите решение задачи
+    Z = input()
+    A = input()
+    rezultat = A + Z
+    print(rezultat)
      
 
 
